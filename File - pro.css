@@ -1,0 +1,39 @@
+body {
+font-family: Arial, sans-serif;
+line-height: 1.6;
+margin: 0;
+padding: 0;
+}
+header {
+background: blue;
+color: violet;
+padding: 20px;
+text-align: center;
+}
+h2{
+color: pink;
+}
+P{
+color: orange;
+}
+nav {
+margin: 20px 0;
+}
+nav ul {
+list-style: none;
+padding: 0;
+}
+nav ul li {
+display: inline;
+margin: 0 10px;
+}
+main {
+padding: 20px;
+}
+footer {
+text-align: center;
+margin-top: 20px;
+  padding: 10px;
+background: green;
+}
+
